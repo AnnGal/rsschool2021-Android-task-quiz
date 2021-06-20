@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Quiz</string>
+
+    <string name="question_label">Question %1$s</string>
+    <string name="action_icon">action_icon</string>
+    <string name="submit_label">Submit</string>
 </resources>
